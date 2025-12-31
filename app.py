@@ -7,5 +7,5 @@
 
 #if __name__ == "__main__":
 #    app.run(host="0.0.0.0", port=5000)
-return "CI/CD auto deploy working machan 🚀"
+return "CI/CD AUTO DEPLOY SUCCESS machan 🚀"
 
